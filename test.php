@@ -44,6 +44,7 @@
             echo "Deyesen olmadi hesne ama baxmaq lazimdir.";
             echo "Sanki indi daha dogru oldu";
             echo "Mecburi sekilde burda yene deywiklikler eledim.";
+            echo "Evden deyisdim alindi";
     }
 
 ?>
