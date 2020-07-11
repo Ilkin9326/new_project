@@ -41,7 +41,8 @@
             echo $_POST["datetime"];
             echo $_POST["datetime"];
             echo "oldu her sey";
-            echo "yox bu olamli deyildi"
+            echo "yox bu olamli deyildi";
+       echo "NIyeki?"
     }
 
 ?>
