@@ -41,6 +41,10 @@
             echo $_POST["datetime"];
             echo $_POST["datetime"];
             echo "oldu her sey";
+      echo "Gencccccccccccccccccccccccccc";
+      echo "oldu her sey";
+      echo "oldu her sey";
+      echo "oldu her sey";
     }
 
 ?>
